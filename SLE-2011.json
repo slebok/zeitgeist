@@ -7,6 +7,7 @@
 	"editor": ["Anthony M. Sloane", "Uwe Aßmann"],
 	"ee": "http://dx.doi.org/10.1007/978-3-642-28830-2",
 	"isbn": "978-3-642-28829-6",
+	"papers": ["2011/SLE-2011-KlintLP", "2011/SLE-2011-SeibelHNG", "2011/SLE-2011-JongeV", "2011/SLE-2011-TairasC", "2011/SLE-2011-JoncheereS", "2011/SLE-2011-SuttonS", "2011/SLE-2011-NishimoriK", "2011/SLE-2011-TombelleVR", "2011/SLE-2011-PaulheimOPP", "2011/SLE-2011-KlingJWBC", "2011/SLE-2011-VermolenWV", "2011/SLE-2011-Czarnecki", "2011/SLE-2011-StappersWRAN", "2011/SLE-2011-ErwigW", "2011/SLE-2011-KaminskiW", "2011/SLE-2011-BastenV", "2011/SLE-2011-BastenKV", "2011/SLE-2011-FischerLZ", "2011/SLE-2011-HillsKV", "2011/SLE-2011-NilssonH", "2011/SLE-2011-Wider", "2011/SLE-2011-Wojciechowski"],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"roles": [["Perdita Stevens", "Doctoral Symposium Chair"],
