@@ -1,0 +1,23 @@
+{
+	"author": ["Bas Basten", "Paul Klint"],
+	"booktitle": "Revised Selected Papers of the First International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
+	"crossref": "conf/sle/2008",
+	"dblpkey": "conf/sle/BastenK08",
+	"doi": "10.1007/978-3-642-00434-6_17",
+	"editor": ["Dragan Gašević", "Ralf Lämmel", "Eric Van Wyk"],
+	"ee": "http://dx.doi.org/10.1007/978-3-642-00434-6_17",
+	"isbn": "978-3-642-00433-9",
+	"pages": "265-284",
+	"publisher": "Springer International Publishing",
+	"publishershort": "Springer",
+	"series": "Lecture Notes in Computer Science",
+	"seriesshort": "LNCS",
+	"stemmed": ["de", "facto", "languag", "parametr", "fact", "extract", "from", "sourc", "code"],
+	"tag": ["fact extraction", "named", "parametricity", "source code"],
+	"title": "DeFacto: Language-Parametric Fact Extraction from Source Code",
+	"type": "inproceedings",
+	"venue": "SLE",
+	"volume": 5452,
+	"year": 2008
+}

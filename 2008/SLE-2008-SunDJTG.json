@@ -1,0 +1,23 @@
+{
+	"author": ["Yu Sun", "Zekai Demirezen", "Frédéric Jouault", "Robert Tairas", "Jeff Gray"],
+	"booktitle": "Revised Selected Papers of the First International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
+	"crossref": "conf/sle/2008",
+	"dblpkey": "conf/sle/SunDJTG08",
+	"doi": "10.1007/978-3-642-00434-6_12",
+	"editor": ["Dragan Gašević", "Ralf Lämmel", "Eric Van Wyk"],
+	"ee": "http://dx.doi.org/10.1007/978-3-642-00434-6_12",
+	"isbn": "978-3-642-00433-9",
+	"pages": "178-187",
+	"publisher": "Springer International Publishing",
+	"publishershort": "Springer",
+	"series": "Lecture Notes in Computer Science",
+	"seriesshort": "LNCS",
+	"stemmed": ["a", "model", "engin", "approach", "to", "tool", "interoper"],
+	"tag": ["approach"],
+	"title": "A Model Engineering Approach to Tool Interoperability",
+	"type": "inproceedings",
+	"venue": "SLE",
+	"volume": 5452,
+	"year": 2008
+}
