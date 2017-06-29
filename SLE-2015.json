@@ -6,6 +6,7 @@
 	"editor": ["Richard F. Paige", "Davide Di Ruscio", "Markus Völter"],
 	"eventurl": "http://www.sleconf.org/2015/",
 	"isbn": "978-1-4503-3686-4",
+	"papers": ["2015/SLE-2015-MaroSATG", "2015/SLE-2015-UmuhozaBRC", "2015/SLE-2015-DegueuleCBBJ", "2015/SLE-2015-BenelallamGTC", "2015/SLE-2015-EramoPR", "2015/SLE-2015-RitschelE", "2015/SLE-2015-NeubauerBMTW", "2015/SLE-2015-GammaitoniKG", "2015/SLE-2015-Bagge", "2015/SLE-2015-Burger", "2015/SLE-2015-Lopez-Fernandez", "2015/SLE-2015-KuehnBGA", "2015/SLE-2015-LatombeCCDP", "2015/SLE-2015-BousseCCGB", "2015/SLE-2015-OchoaRT", "2015/SLE-2015-Pearce", "2015/SLE-2015-LaurentM"],
 	"publisher": "ACM",
 	"roles": [["Richard F. Paige", "General Chair"],
 		["Davide Di Ruscio", "Program Chair"],

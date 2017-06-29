@@ -1,0 +1,17 @@
+{
+	"author": ["Nico Ritschel", "Sebastian Erdweg"],
+	"back": "SLE-2015",
+	"booktitle": "SLE",
+	"crossref": "conf/sle/2015",
+	"dblpkey": "conf/sle/RitschelE15",
+	"doi": "10.1145/2814251.2814260",
+	"ee": "http://doi.acm.org/10.1145/2814251.2814260",
+	"pages": "59-70",
+	"publisher": "ACM",
+	"stemmed": ["modular", "captur", "avoid", "for", "program", "transform"],
+	"tag": ["composition", "program transformation"],
+	"title": "Modular capture avoidance for program transformations",
+	"type": "inproceedings",
+	"venue": "SLE",
+	"year": 2015
+}
