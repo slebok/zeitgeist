@@ -1,5 +1,6 @@
 {
 	"author": ["Hongzhi Liang", "Jürgen Dingel"],
+	"back": "../SLE-2008",
 	"booktitle": "Revised Selected Papers of the First International Conference on Software Language Engineering",
 	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2008",
