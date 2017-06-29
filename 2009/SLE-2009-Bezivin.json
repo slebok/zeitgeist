@@ -1,5 +1,5 @@
 {
-	"author": "Jean Bézivin",
+	"author": ["Jean Bézivin"],
 	"back": "SLE-2009",
 	"booktitle": "Revised Selected Papers of the Second International Conference on Software Language Engineering",
 	"booktitleshort": "SLE",
