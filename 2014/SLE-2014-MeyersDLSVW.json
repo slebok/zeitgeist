@@ -28,13 +28,13 @@
 	"pages": "1-20",
 	"past": [
 		"Gray, J., Tolvanen, J.P., Kelly, S., Gokhale, A., Neema, S., Sprinkle, J.: Domain-specific modeling. In: Handbook of Dynamic System Modeling (2007)",
-		"dblp:FOSE-2007-FranceR.xml",
+		"dblp:FOSE-2007-FranceR",
 		"Risoldi,M.:A Methodology ForTheDevelopment OfComplex DomainSpecificLanguages. PhD thesis, University of Geneva (2010)",
 		"Visser, W., Dwyer, M., Whalen, M.: The hidden models of model checking. SoSym 11, 541–555 (2012)",
 		"Meyers, B., Deshayes, R., Lucio, L., Syriani, E., Wimmer, M., Vangheluwe, H.: The ProMoBox approach to language modelling. Technical Report SOCS-TR-2014.3, School of Computer Science, McGill University (2014)",
 		"Meyers, B., Wimmer, M., Vangheluwe, H.: Towards domain-specific property languages: The ProMoBox approach. In: DSM (2013)",
-		"Dwyer, M.B., Avrunin, G.S., Corbett, J.C.: Patterns in Property Specifications for Finite-State Verification. In: ICSE (1999)",
-		"Kühne, T., Mezei, G., Syriani, E., Vangheluwe, H., Wimmer, M.: Explicit transformation modeling. In: Ghosh, S. (ed.) MODELS 2009. LNCS, vol. 6002, pp. 240–255. Springer, Heidelberg (2010)",
+		"bibsleigh:SE/1999/ICSE-1999/ICSE-1999-DwyerAC",
+		"dblp:MPM-2009-KuehneMSVW",
 		"Syriani, E.:A Multi-ParadigmFoundation for Model Transformation Language Engineering. PhD thesis, McGill University Montreal, Canada (2011)",
 		"Guerra, E., de Lara, J., Kolovos, D.S., Paige, R.F.: A Visual Specification Language for Model-to-Model Transformations. In: VL/HCC (2010)",
 		"Guerra, E., de Lara, J., Wimmer, M., et al.: Automated verification of model transformations based on visual contracts. ASE 20, 5–46 (2013)",
@@ -60,7 +60,8 @@
 		"Deshayes, R., Palanque, P.A., Mens, T.: A generic framework for executable gestural inter- action models. In: VL/HCC (2013)"
 	],
 	"present": [
-		"Fixed: [2] was stated as ICSE, actually FOSE."
+		"Fixed: [2] was stated as ICSE, actually FOSE.",
+		"Fixed: [8] was stated as MoDELS, actually MPM."
 	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",

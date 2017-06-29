@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/models/KuhneMSVW09" mdate="2017-05-25">
+<author>Thomas K&#252;hne</author>
+<author>Gergely Mezei</author>
+<author>Eugene Syriani</author>
+<author>Hans Vangheluwe</author>
+<author>Manuel Wimmer</author>
+<title>Explicit Transformation Modeling.</title>
+<pages>240-255</pages>
+<year>2009</year>
+<booktitle>MoDELS Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-12261-3_23</ee>
+<crossref>conf/models/2009w</crossref>
+<url>db/conf/models/models2009w.html#KuhneMSVW09</url>
+</inproceedings></dblp>
