@@ -7,6 +7,7 @@
 	"editor": ["Krzysztof Czarnecki", "Görel Hedin"],
 	"ee": "http://dx.doi.org/10.1007/978-3-642-36089-3",
 	"isbn": ["978-3-642-36088-6", "978-3-642-36089-3"],
+	"papers": ["2012/SLE-2012-Storey", "2012/SLE-2012-StormCL", "2012/SLE-2012-Sloane", "2012/SLE-2012-KrishnanW", "2012/SLE-2012-PaigeKP", "2012/SLE-2012-KansoT", "2012/SLE-2012-CuadradoGL", "2012/SLE-2012-AnjorinSRS", "2012/SLE-2012-GarciaDA", "2012/SLE-2012-WidlBBEHKST", "2012/SLE-2012-CombemaleHJBB", "2012/SLE-2012-StevensonC", "2012/SLE-2012-AfroozehBBJMMS", "2012/SLE-2012-ErdwegRKO", "2012/SLE-2012-BarenghiVCMP", "2012/SLE-2012-AbedBSYAK", "2012/SLE-2012-GuizzardiZ", "2012/SLE-2012-KonatKWV", "2012/SLE-2012-DuranZT", "2012/SLE-2012-KaminskiW", "2012/SLE-2012-HillsKV", "2012/SLE-2012-BettiniSVC"],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"roles": [["Uwe Aßmann", "General Chair"],
