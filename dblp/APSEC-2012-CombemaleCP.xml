@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/apsec/CombemaleCP12" mdate="2017-05-17">
+<author>Beno&#238;t Combemale</author>
+<author>Xavier Cr&#233;gut</author>
+<author>Marc Pantel</author>
+<title>A Design Pattern to Build Executable DSMLs and Associated V&amp;V Tools.</title>
+<pages>282-287</pages>
+<year>2012</year>
+<booktitle>APSEC</booktitle>
+<ee>https://doi.org/10.1109/APSEC.2012.79</ee>
+<crossref>conf/apsec/2012</crossref>
+<url>db/conf/apsec/apsec2012.html#CombemaleCP12</url>
+</inproceedings></dblp>

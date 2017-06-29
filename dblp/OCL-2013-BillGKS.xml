@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/models/BillGKS13" mdate="2013-11-26">
+<author>Robert Bill</author>
+<author>Sebastian Gabmeyer</author>
+<author>Petra Kaufmann</author>
+<author>Martina Seidl</author>
+<title>OCL meets CTL: Towards CTL-Extended OCL Model Checking.</title>
+<pages>13-22</pages>
+<year>2013</year>
+<booktitle>OCL@MoDELS</booktitle>
+<ee>http://ceur-ws.org/Vol-1092/bill.pdf</ee>
+<crossref>conf/models/2013ocl</crossref>
+<url>db/conf/models/ocl2013.html#BillGKS13</url>
+</inproceedings>
+</dblp>

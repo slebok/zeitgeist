@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/fmcad/CimattiMT11" mdate="2017-04-29">
+<author>Alessandro Cimatti</author>
+<author>Sergio Mover</author>
+<author>Stefano Tonetta</author>
+<title>Proving and explaining the unfeasibility of message sequence charts for hybrid systems.</title>
+<pages>54-62</pages>
+<year>2011</year>
+<booktitle>FMCAD</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=2157666</ee>
+<ee>http://ieeexplore.ieee.org/document/6148911/</ee>
+<crossref>conf/fmcad/2011</crossref>
+<url>db/conf/fmcad/fmcad2011.html#CimattiMT11</url>
+</inproceedings></dblp>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/tagt/FischerNTZ98" mdate="2017-05-24">
+<author>Thorsten Fischer</author>
+<author>J&#246;rg Niere</author>
+<author>Lars Torunski</author>
+<author>Albert Z&#252;ndorf</author>
+<title>Story Diagrams: A New Graph Rewrite Language Based on the Unified Modeling Language and Java.</title>
+<pages>296-309</pages>
+<year>1998</year>
+<crossref>conf/tagt/1998</crossref>
+<booktitle>TAGT</booktitle>
+<url>db/conf/tagt/tagt1998.html#FischerNTZ98</url>
+<ee>https://doi.org/10.1007/978-3-540-46464-8_21</ee>
+</inproceedings></dblp>

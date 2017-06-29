@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/vl/GuerraLKP10" mdate="2017-06-15">
+<author orcid="0000-0002-2818-2278">Esther Guerra</author>
+<author orcid="0000-0001-9425-6362">Juan de Lara</author>
+<author orcid="0000-0002-1724-6563">Dimitrios S. Kolovos</author>
+<author>Richard F. Paige</author>
+<title>A Visual Specification Language for Model-to-Model Transformations.</title>
+<pages>119-126</pages>
+<year>2010</year>
+<booktitle>VL/HCC</booktitle>
+<ee>https://doi.org/10.1109/VLHCC.2010.25</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VLHCC.2010.25</ee>
+<crossref>conf/vl/2010</crossref>
+<url>db/conf/vl/vlhcc2010.html#GuerraLKP10</url>
+</inproceedings></dblp>
