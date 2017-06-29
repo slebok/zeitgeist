@@ -1,5 +1,6 @@
 {
 	"address": ["Indianapolis", "Indiana", "USA"],
+	"back": "SLE",
 	"booktitle": "SLE",
 	"dblpkey": "conf/sle/2013",
 	"doi": "10.1007/978-3-319-02654-1",
@@ -50,10 +51,6 @@
 		["Kim Mens", "Steering Committee"]],
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"tagged": [["domain-specific language", 5],
-		["execution", 3],
-		["named", 3],
-		["framework", 2]],
 	"title": "Proceedings of the Sixth International Conference on Software Language Engineering",
 	"type": "proceedings",
 	"venue": "SLE",

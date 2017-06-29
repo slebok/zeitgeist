@@ -1,5 +1,6 @@
 {
 	"address": ["Toulouse", "", "France"],
+	"back": "SLE",
 	"booktitle": "SLE",
 	"dblpkey": "conf/sle/2008",
 	"doi": "10.1007/978-3-642-00434-6",
