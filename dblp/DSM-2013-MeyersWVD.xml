@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/oopsla/MeyersWVD13" mdate="2016-07-18">
+<author>Bart Meyers</author>
+<author>Manuel Wimmer</author>
+<author>Hans Vangheluwe</author>
+<author>Joachim Denil</author>
+<title>Towards domain-specific property languages: the ProMoBox approach.</title>
+<pages>39-44</pages>
+<year>2013</year>
+<booktitle>DSM@SPLASH</booktitle>
+<ee>http://doi.acm.org/10.1145/2541928.2541936</ee>
+<crossref>conf/oopsla/2013dsm</crossref>
+<url>db/conf/oopsla/dsm2013.html#MeyersWVD13</url>
+</inproceedings>
+</dblp>

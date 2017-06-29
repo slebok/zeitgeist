@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/models/SyrianiVMHME13" mdate="2014-02-03">
+<author>Eugene Syriani</author>
+<author>Hans Vangheluwe</author>
+<author>Raphael Mannadiar</author>
+<author>Conner Hansen</author>
+<author>Simon Van Mierlo</author>
+<author>H&#252;seyin Ergin</author>
+<title>AToMPM: A Web-based Modeling Environment.</title>
+<pages>21-25</pages>
+<year>2013</year>
+<booktitle>Demos/Posters/StudentResearch@MoDELS</booktitle>
+<ee>http://ceur-ws.org/Vol-1115/demo4.pdf</ee>
+<crossref>conf/models/2013jp</crossref>
+<url>db/conf/models/jp2013.html#SyrianiVMHME13</url>
+</inproceedings>
+</dblp>
