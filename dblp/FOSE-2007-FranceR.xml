@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<dblp>
+<inproceedings key="conf/icse/FranceR07" mdate="2017-06-15">
+<author>Robert B. France</author>
+<author orcid="0000-0002-2147-1966">Bernhard Rumpe</author>
+<title>Model-driven Development of Complex Software: A Research Roadmap.</title>
+<pages>37-54</pages>
+<year>2007</year>
+<booktitle>FOSE</booktitle>
+<ee>https://doi.org/10.1109/FOSE.2007.14</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FOSE.2007.14</ee>
+<ee>http://dl.acm.org/citation.cfm?id=1254709</ee>
+<crossref>conf/icse/2007fose</crossref>
+<url>db/conf/icse/fose2007.html#FranceR07</url>
+</inproceedings></dblp>
