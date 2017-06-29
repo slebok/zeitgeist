@@ -6,6 +6,7 @@
 	"editor": ["Mark van den Brand", "Dragan Gašević", "Jeff Gray"],
 	"ee": "http://dx.doi.org/10.1007/978-3-642-12107-4",
 	"isbn": "978-3-642-12106-7",
+	"papers": ["2009/SLE-2009-Cordy", "2009/SLE-2009-Bezivin", "2009/SLE-2009-HerrmannsdoerferRW", "2009/SLE-2009-LevendovszkyBNK", "2009/SLE-2009-BartolomeiCLS", "2009/SLE-2009-AcherCLF", "2009/SLE-2009-ZschalerSSARFMAK", "2009/SLE-2009-AlferezSMGKAA", "2009/SLE-2009-Bagge", "2009/SLE-2009-IrazabalP", "2009/SLE-2009-LairdB", "2009/SLE-2009-SpiewakZ", "2009/SLE-2009-GroenewegenV", "2009/SLE-2009-LaarmanK", "2009/SLE-2009-SchwerdfegerW", "2009/SLE-2009-JongeNKV", "2009/SLE-2009-HemelV", "2009/SLE-2009-KalninaKCS", "2009/SLE-2009-WendeTZ", "2009/SLE-2009-RenggliDN", "2009/SLE-2009-BauerE", "2009/SLE-2009-MalletLAGT", "2009/SLE-2009-ZschalerKDPR", "2009/SLE-2009-Jugel", "2009/SLE-2009-HeidenreichJSW"],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"roles": [["Dragan Gašević", "General Chair"],

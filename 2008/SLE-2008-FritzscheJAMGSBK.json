@@ -1,6 +1,6 @@
 {
 	"author": ["Mathias Fritzsche", "Jendrik Johannes", "Uwe Aßmann", "Simon Mitschke", "Wasif Gilani", "Ivor T. A. Spence", "T. John Brown", "Peter Kilpatrick"],
-	"back": "../SLE-2008",
+	"back": "SLE-2008",
 	"booktitle": "Revised Selected Papers of the First International Conference on Software Language Engineering",
 	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2008",
