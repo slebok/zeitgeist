@@ -1,0 +1,20 @@
+{
+	"author": ["Colin Atkinson"],
+	"back": "SLE-2014",
+	"booktitle": "Proceedings of the Seventh International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
+	"editor": ["Benoît Combemale", "David J. Pearce", "Olivier Barais", "Jurgen J. Vinju"],
+	"isbn": "978-3-319-11244-2",
+	"pages": "IX-XI",
+	"publisher": "Springer International Publishing",
+	"publishershort": "Springer",
+	"series": "Lecture Notes in Computer Science",
+	"seriesshort": "LNCS",
+	"stemmed": ["languag", "engin", "viewpoint", "engin"],
+	"title": "From Language Engineering to Viewpoint Engineering",
+	"type": "inproceedings",
+	"url": "http://www.sleconf.org/2014/Invited.html",
+	"venue": "SLE",
+	"volume": 8706,
+	"year": 2014
+}

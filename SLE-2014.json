@@ -8,7 +8,7 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-319-11245-9",
 	"eventurl": "http://www.sleconf.org/2014/",
 	"isbn": "978-3-319-11244-2",
-	"papers": ["2014/SLE-2014-MeyersDLSVW", "2014/SLE-2014-KaufmannKPSW", "2014/SLE-2014-VolterSBK", "2014/SLE-2014-KursLN", "2014/SLE-2014-DiekmannT", "2014/SLE-2014-ChisGN", "2014/SLE-2014-JaksicFCG", "2014/SLE-2014-KuhnLGSA", "2014/SLE-2014-PredaGLMG", "2014/SLE-2014-TisiJDSC", "2014/SLE-2014-SloaneRH", "2014/SLE-2014-SloaneRBM", "2014/SLE-2014-BillGKS", "2014/SLE-2014-HarkesV", "2014/SLE-2014-Ridge", "2014/SLE-2014-WilliamsW", "2014/SLE-2014-JukssVVV", "2014/SLE-2014-Hills", "2014/SLE-2014-HartelHL"],
+	"papers": ["2014/SLE-2014-Atkinson", "2014/SLE-2014-MeyersDLSVW", "2014/SLE-2014-KaufmannKPSW", "2014/SLE-2014-VolterSBK", "2014/SLE-2014-KursLN", "2014/SLE-2014-DiekmannT", "2014/SLE-2014-ChisGN", "2014/SLE-2014-JaksicFCG", "2014/SLE-2014-KuhnLGSA", "2014/SLE-2014-PredaGLMG", "2014/SLE-2014-TisiJDSC", "2014/SLE-2014-SloaneRH", "2014/SLE-2014-SloaneRBM", "2014/SLE-2014-BillGKS", "2014/SLE-2014-HarkesV", "2014/SLE-2014-Ridge", "2014/SLE-2014-WilliamsW", "2014/SLE-2014-JukssVVV", "2014/SLE-2014-Hills", "2014/SLE-2014-HartelHL"],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"roles": [["Jurgen J. Vinju", "General Chair"],
