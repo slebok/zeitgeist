@@ -28,7 +28,7 @@
 	"pages": "1-20",
 	"past": [
 		"Gray, J., Tolvanen, J.P., Kelly, S., Gokhale, A., Neema, S., Sprinkle, J.: Domain-specific modeling. In: Handbook of Dynamic System Modeling (2007)",
-		"France, R., Rumpe, B.: Model-driven development of complex software: A research roadmap. In: ICSE (2007)",
+		"dblp:conf/icse/FranceR07",
 		"Risoldi,M.:A Methodology ForTheDevelopment OfComplex DomainSpecificLanguages. PhD thesis, University of Geneva (2010)",
 		"Visser, W., Dwyer, M., Whalen, M.: The hidden models of model checking. SoSym 11, 541–555 (2012)",
 		"Meyers, B., Deshayes, R., Lucio, L., Syriani, E., Wimmer, M., Vangheluwe, H.: The ProMoBox approach to language modelling. Technical Report SOCS-TR-2014.3, School of Computer Science, McGill University (2014)",
@@ -58,6 +58,9 @@
 		"Fischer, T., Niere, J., Torunski, L., Zündorf, A.: Story Diagrams: A New Graph Rewrite Language Based on the Unified Modeling Language and Java. In: Ehrig, H., Engels, G., Kreowski, H.-J., Rozenberg, G. (eds.) TAGT 1998. LNCS, vol. 1764, pp. 296–309. Springer, Heidelberg (2000)",
 		"da Costa Cavalheiro, S.A., Foss, L., Ribeiro, L.: Specification Patterns for Properties over Reachable States of Graph Grammars. In: Gheyi, R., Naumann, D. (eds.) SBMF 2012. LNCS, vol. 7498, pp. 83–98. Springer, Heidelberg (2012)",
 		"Deshayes, R., Palanque, P.A., Mens, T.: A generic framework for executable gestural inter- action models. In: VL/HCC (2013)"
+	],
+	"present": [
+		"Fixed: [2] was stated as ICSE, actually FOSE."
 	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
