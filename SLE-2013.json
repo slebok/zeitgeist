@@ -7,6 +7,7 @@
 	"editor": ["Martin Erwig", "Richard F. Paige", "Eric Van Wyk"],
 	"ee": "http://dx.doi.org/10.1007/978-3-319-02654-1",
 	"isbn": "978-3-319-02653-4",
+	"papers": ["2013/SLE-2013-BatoryGMS", "2013/SLE-2013-SobernigSB", "2013/SLE-2013-KlintR", "2013/SLE-2013-MayerhoferLWK", "2013/SLE-2013-VacchiCPC", "2013/SLE-2013-FehrenbachEO", "2013/SLE-2013-Zaytsev", "2013/SLE-2013-AfroozehBJSV", "2013/SLE-2013-VasudevanT", "2013/SLE-2013-BaggeH", "2013/SLE-2013-ErdwegSVBBCGHKLKMPPSSSVVVWW", "2013/SLE-2013-DialloCL", "2013/SLE-2013-PearceG", "2013/SLE-2013-LammelMV", "2013/SLE-2013-WachsmuthKVGV", "2013/SLE-2013-ArusoaieLR", "2013/SLE-2013-SoderbergH", "2013/SLE-2013-DiskinKM", "2013/SLE-2013-BakDACW", "2013/SLE-2013-CombemaleDLMBBF"],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"roles": [["Eric Van Wyk", "General Chair"],
