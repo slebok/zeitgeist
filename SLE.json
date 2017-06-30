@@ -1,9 +1,11 @@
 {
 	"bibsleigh": "SLE.brand",
+	"booktitle": "Software Language Engineering",
 	"eventurl": "http://www.sleconf.org/",
 	"name": "SLE",
 	"papers": ["SLE-2008", "SLE-2009", "SLE-2010", "SLE-2011", "SLE-2012", "SLE-2013", "SLE-2014", "SLE-2015", "SLE-2016"],
 	"title": "Software Language Engineering",
 	"twitter": "sleconf",
-	"venue": "SLE"
+	"venue": "SLE",
+	"year": "series"
 }

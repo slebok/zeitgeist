@@ -10,6 +10,14 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-642-00434-6_1",
 	"isbn": "978-3-642-00433-9",
 	"pages": "1-7",
+	"past": [
+		"[1] Kleppe, A.: Software Language Engineering: Creating Domain-Specific Languages Using Metamodels. Addison-Wesley Longman Publishing Co., Inc., Boston (2009)",
+		"[2] Hopcroft, J.E., Ullman, J.D.: Introduction to Automata Theory, Languages and Computa-tion. Addison-Wesley, Reading (1979)",
+		"[3] Tserdanelis, G., Wong, W.Y.P. (eds.): The Language Files: Materials for an Introduction to Language and Linguistics, 9th edn. Ohio State University Press (April 2004)",
+		"[4] Fromkin, V., Rodman, R., Hyams, N. (eds.): An Introduction to Language, 7th edn. Heinle (August 2002)",
+		"[5] Klint, P.: Interpretation techniques. Softw., Pract. Exper. 11(9), 963–973 (1981)",
+		"[6] Palmen, C.: Lucifer. Prometheus, Amsterdam (2007)"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
