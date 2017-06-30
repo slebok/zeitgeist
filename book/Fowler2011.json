@@ -1,0 +1,9 @@
+{
+	"author": ["Martin Fowler", "Rebecca Parsons"],
+	"dblpkey": "books/daglib/0034522",
+	"isbn": "978-0-321-71294-3",
+	"publisher": "Addison-Wesley",
+	"title": "Domain-Specific Languages",
+	"url": "https://martinfowler.com/books/dsl.html",
+	"year": 2011
+}

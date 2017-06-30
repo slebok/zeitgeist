@@ -1,0 +1,9 @@
+{
+	"author": ["Martin Fowler", "Kent Beck", "John Brant", "William Opdyke", "Don Roberts"],
+	"dblpkey": "books/daglib/0019908",
+	"isbn": "978-0-201-48567-7",
+	"publisher": "Addison-Wesley",
+	"title": "Refactoring - Improving the Design of Existing Code",
+	"url": "http://martinfowler.com/books/refactoring.html",
+	"year": 2011
+}
