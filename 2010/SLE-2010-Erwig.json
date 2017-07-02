@@ -10,6 +10,10 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-642-19440-5_1",
 	"isbn": "978-3-642-19439-9",
 	"pages": "1-1",
+	"past": [
+		"1. Erwig, M.: A Language for Software Variation. In: ACM SIGPLAN Conf. on Generative Programming and Component Engineering, pp. 3–12 (2010)",
+		"2. Erwig, M., Walkingshaw, E.: The Choice Calculus: A Representation for Software Variation. ACM Transactions on Software Engineering and Methodology (to appear, 2011)"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",

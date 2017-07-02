@@ -10,6 +10,17 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-642-19440-5_20",
 	"isbn": "978-3-642-19439-9",
 	"pages": "306-315",
+	"past": [
+		"1. Bravenboer, M., Kalleberg, K.T., Vermaas, R., Visser, E.: Stratego/xt 0.17. a lan- guage and toolset for program transformation. Sci. Comput. Program. 72(1-2), 52–70 (2008)",
+		"2. Johnstone, A., Scott, E.: GLL parsing. In: Proc. 9th Workshop on Language De- scriptions, Tools and Applications LDTA 2009 (2009)",
+		"3. Johnstone, A., Scott, E.: Tear-Insert-Fold grammars. In: LDTA 2010 Tenth Work- shop on Language Descriptions, Tools and Applications (2010)",
+		"4. McPeak, S., Necula, G.C.: Elkhound: A fast, practical GLR parser generator. In: Duesterwald, E. (ed.) CC 2004. LNCS, vol. 2985, pp. 73–88. Springer, Heidelberg (2004)",
+		"5. Necula, G.C., McPeak, S., Rahul, S.P., Weimer, W.: CIL: Intermediate language and tools for analysis and transformation of C programs. In: CC 2002. LNCS, vol. 2304, pp. 213–228. Springer, Heidelberg (2002)",
+		"6. van den Brand, M.G.J., Heering, J., Klint, P., Olivier, P.A.: Compiling language definitions: the ASF+SDF compiler. ACM Transactions on Programming Languages and Systems 24(4), 334–368 (2002)"
+	],
+	"present": [
+		"Fixed: [6] is the same as [7]"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",

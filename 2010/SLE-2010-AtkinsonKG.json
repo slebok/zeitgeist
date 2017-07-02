@@ -10,6 +10,28 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-642-19440-5_16",
 	"isbn": "978-3-642-19439-9",
 	"pages": "266-275",
+	"past": [
+		"1. OMG UML 2.1.2 Infrastructure Specification, Object Management Group (OMG), Tech. Rep. (2007)",
+		"2. Gasevic, D., Djuric, D., Devedzic, V., Damjanovi, V.: Converting UML to OWL ontolo- gies. In: Proceedings of the 13th International World Wide Web, New York, NY (2004)",
+		"3. Tolvanen, J.: MetaEdit+: Domain-Specific Modeling for Full Code Generation Demon- strated. In: Proc. 19th Ann. ACM SIGPLAN Conf. Object-Oriented Programming Sys- tems, Languages, and Applications (2004)",
+		"4. GreenField, J., Short, K., Cook, S., Kent, S., Crupi, J.: Software Factories: Assembling Applications with Patterns, Models, Frameworks, and Tools. John Wiley and Sons, Chichester (2004)",
+		"5. Atkinson, C., Kühne, T.: Rearchitecting the UML Infrastructure. ACM Journal Transac- tions on Modeling and Computer Simulation 12(4) (2002)",
+		"6. Atkinson, C., Kühne, T.: Model-Driven Development: A Metamodeling Foundation. IEEE Software (2003)",
+		"7. Asikainen, T., Männistö, T.: Nivel:a metamodelling language with a formal semantics. Software and Systems Modeling 8(4), 521–549 (2009)",
+		"8. Aschauer, T., Dauenhauer, G., Pree, W.: Multi-level Modeling for Industrial Automation Systems. In: Software Engineering and Advanced Applications, Euromicro Conference, pp. 490–496 (2009)",
+		"9. OWL (2004), http://www.w3.org/2004/OWL",
+		"10. Atkinson, C., Gutheil, M., Kennel, B.: A Flexible Infrastructure for Multi-Level Language Engineering. IEEE Transactions on Software Engineering 35(6) (2009)",
+		"11. Atkinson, C., Kühne, T.: The essence of multilevel metamodeling. In: Gogolla, M., Kobryn, C. (eds.) UML 2001. LNCS, vol. 2185, pp. 19–33. Springer, Heidelberg (2001)",
+		"12. Atkinson, C., Kühne, T.: Reducing accidental complexity in domain models. In: Software and Systems Modeling (2007)",
+		"13. Chen, P.: The Entity-Relationship Model: Toward a Unified View of Data. ACM Transac- tions on Database Systems 1, 9–36 (1976)",
+		"14. Kühne, T.: Matters of (Meta-)Modeling. Journal on Software and Systems Modeling 5(4), 369–385 (2006)",
+		"15. Gutheil, M., Kennel, B., Atkinson, C.: A Systematic Approach to Connectors in a Multi- Level Modeling Environment. In: Proc. 11th Int’l Conf. Model Driven Eng. Languages and Systems (2008)",
+		"16. Protege Tool (2008), http://protege.stanford.edu"
+	],
+	"present": [
+		"keyword:Multi-Level Modeling",
+		"keyword:Modeling Language"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",

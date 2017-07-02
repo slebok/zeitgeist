@@ -10,6 +10,24 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-642-19440-5_4",
 	"isbn": "978-3-642-19439-9",
 	"pages": "42-61",
+	"past": [
+		"1. Gnu Bison home page (2003), http://www.gnu.org/software/bison",
+		"2. Earley, J.: An efficient context-free parsing algorithm. Communications of the ACM 13(2), 94–102 (1970)",
+		"3. Knuth, D.E.: On the translation of languages from left to right. Information and Control 8(6), 607–639 (1965)",
+		"4. Nozohoor-Farshi, R.: GLR parsing for ?-grammars. In: Tomita, M. (ed.) General- ized LR Parsing, pp. 60–75. Kluwer Academic Publishers, The Netherlands (1991)",
+		"5. Scott, E., Johnstone, A.: Generalised bottom up parsers with reduced stack activity. The Computer Journal 48(5), 565–587 (2005)",
+		"6. Scott, E., Johnstone, A.: GLL parsing. Electronic Notes in Theoretical Computer Science (2009)",
+		"7. Scott, E., Johnstone, A., Economopoulos, G.: A cubic Tomita style GLR parsing algorithm. Acta Informatica 44, 427–461 (2007)",
+		"8. Tomita, M.: Efficient parsing for natural language. Kluwer Academic Publishers, Boston (1986)",
+		"9. van den Brand, M.G.J., Heering, J., Klint, P., Olivier, P.A.: Compiling language definitions: the ASF+SDF compiler. ACM Transactions on Programming Lan- guages and Systems 24(4), 334–368 (2002)",
+		"10. Younger, D.H.: Recognition of context-free languages in time n 3 . Inform. Con- trol 10(2), 189–208 (1967)"
+	],
+	"present": [
+		"keyword:GLL parsing",
+		"keyword:general context-free parsing",
+		"keyword:implementation spaces",
+		"keyword:time-space tradeoffs"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",

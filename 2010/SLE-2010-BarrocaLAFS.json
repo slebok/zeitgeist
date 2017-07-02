@@ -10,6 +10,22 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-642-19440-5_19",
 	"isbn": "978-3-642-19439-9",
 	"pages": "296-305",
+	"past": [
+		"1. Biermann, E., Ermel, C., Taentzer, G.: Precise Semantics of EMF Model Transfor- mations by Graph Transformation. In: Busch, C., Ober, I., Bruel, J.-M., Uhl, A., Völter, M. (eds.) MODELS 2008. LNCS, vol. 5301, pp. 53–67. Springer, Heidelberg (2008)",
+		"2. Ehrig, H., Ehrig, K., Prange, U., Taentzer, G.: Fundamentals of Algebraic Graph Transformation. Springer, Heidelberg (2006)",
+		"3. Ehrig, H., Ehrig, K., de Lara, J., Taentzer, G., Varr´ o, D., Varr´ o-Gyapay, S.: Termi- nation criteria for model transformation. In: Cerioli, M. (ed.) FASE 2005. LNCS, vol. 3442, pp. 49–63. Springer, Heidelberg (2005)",
+		"4. Levendovszky, T., Prange, U., Ehrig, H.: Termination criteria for dpo transfor- mations with injective matches. Electronic Notes in Theoretical Computer Sci- ence 175(4), 87–100 (2007)",
+		"5. Lúcio, L., Barroca, B., Amaral, V.: A technique for automatic validation of model transformations. In: Petriu, D.C., Rouquette, N., Haugen, Ø. (eds.) MODELS 2010. LNCS, vol. 6394, pp. 136–150. Springer, Heidelberg (2010)",
+		"6. Mens, T., Van Gorp, P.: A taxonomy of model transformation. Electronic Notes in Theoretic Computer Science 152, 125–142 (2006)",
+		"7. Plumpf, D.: Termination of graph rewriting is undecidable. Fundamenta Informat- icae 33(2), 201–209 (1998)",
+		"8. Solar Group. Dsltrans plug-in (2010), http://solar.di.fct.unl.pt/twiki/pub/ BATICCCS/ReleaseFiles/dsltrans.october,zip"
+	],
+	"present": [
+		"keyword:Model Transformations",
+		"keyword:Turing Incompleteness",
+		"keyword:Termination",
+		"keyword:Confluence"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",

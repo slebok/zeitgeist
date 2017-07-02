@@ -10,6 +10,25 @@
 	"ee": "http://dx.doi.org/10.1007/978-3-642-19440-5_12",
 	"isbn": "978-3-642-19439-9",
 	"pages": "203-205",
+	"past": [
+		"1. Demeyer, S., Tichelaar, S., Steyaert, P.: FAMIX 2.0—the FAMOOS inf. exchange model. Tech. rep., University of Berne, Switzerland (1999), http://www.iam.unibe.ch/ ~ famoos/FAMIX/Famix20/Html/famix20.html",
+		"2. Dietrich, J., Elgar, C.: A formal description of design patterns using OWL. In: Proceedings of the Australian Software Engineering Conference, Brisbane, Australia (2005)",
+		"3. Fowler, M.: Refactoring. Addison-Wesley, Reading (1999)",
+		"4. Gamma, E., Helm, R., Johnson, R.E.: Design Patterns. Elements of Reusable Object-Oriented Software. Addison-Wesley Longman, Amsterdam (1995)",
+		"5. Happel, H.-J., Korthaus, A., Seedorf, S., Tomczyk, P.: KOntoR: An Ontology- enabled Approach to Software Reuse. In: Proceedings of the 18th Internatinal Con- ference on Software Engineering and Knowledge Engineering (SEKE), San Fran- cisco, CA (2006)",
+		"6. Hyland-Wood, D., Carrington, D., Kapplan, S.: Toward a Software Maintenance Methodology using Semantic Web Techniques. In: Proceedings of the 2nd ICSM International Workshop on Software Evolvability (SE), pp. 23–30 (2006)",
+		"7. M¨ antyl¨ a, M., Vanhanen, J., Lassenius, C.: A Taxonomy and an Initial Empirical Study of Bad Smells in Code. In: Proceedings of the International Conference on Software Maintenance (ICSM), pp. 381–384 (2003)",
+		"8. Shatnawi, R., Li, W.: A Investigation of Bad Smells in Object-Oriented Design Code. In: Proceedings of the 3rd International Conference on Information Technology: New Generations, pp. 161–165 (2006)",
+		"9. Tappolet, J., Kiefer, C., Bernstein, A.: Semantic web enabled software analysis. Journal of Web Semantics: Science, Services and Agents on the World Wide Web 8 (July 2010)"
+	],
+	"present": [
+		"keyword:Software Engineering",
+		"keyword:Semantic Web",
+		"keyword:Software Analysis",
+		"keyword:Knowledge Representation",
+		"keyword:Statistics",
+		"keyword:Ontologies"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
