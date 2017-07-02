@@ -28,6 +28,12 @@
 		"15. Wadler, P., Blott, S.: How to make ad-hoc polymorphism less ad hoc. In: POPL 1989: Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, pp. 60–76. ACM Press, New York (1989)",
 		"16. Zelkowitz, M.V.: Automatic program analysis and evaluation. In: Proceedings of the 2nd International Conference on Software Engineering, pp. 158–163. IEEE Computer Society Press, Los Alamitos (1976)"
 	],
+	"present": [
+		"keyword:tools for language usage analysis",
+		"keyword:compilation loggings",
+		"keyword:system description",
+		"keyword:functional programming"
+	],
 	"publisher": "Springer International Publishing",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
